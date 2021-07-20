@@ -1,0 +1,6 @@
+*.zip
+*.pdf
+
+MNIST_data/
+__pycache__/
+
